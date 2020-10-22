@@ -63,17 +63,11 @@ html {
     color: #fff;
 }
 
-.navbar .menu li {
-    list-style: none;
-    display: inline-block;
-}
-
-.navbar .menu li a {
+.navbar .menu a {
     color: #fff;
     font-size: 18px;
     font-weight: 500;
     margin-left: 25px;
-    transition: color 0.3s ease;
 }
 
 .navbar .menu li a:hover{
